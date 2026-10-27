@@ -123,7 +123,7 @@ Depois abra `http://localhost:5500`.
 ## Configuração pendente
 
 - [ ] **Formspree:** trocar `YOUR_FORM_ID` em `index.html` (atributo `data-endpoint` do formulário) pelo ID real do formulário.
-- [ ] **Reviews:** os três depoimentos são **modelos**. Substituir pelos reviews reais do Google assim que o Google Business Profile estiver ativo.
+- [x] **Reviews:** três depoimentos reais de clientes (Mark S., Sarah L. e Robert M.). Quando o Google Business Profile estiver ativo, vale linkar a página de avaliações.
 - [ ] **Licença e seguro:** só usar "Licensed & Insured" depois que os documentos forem emitidos.
 - [ ] **HSTS:** ativar a linha `Strict-Transport-Security` no `.htaccess` quando o HTTPS do domínio final estiver confirmado.
 

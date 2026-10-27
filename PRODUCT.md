@@ -50,7 +50,7 @@ Owner operated: the people who quote the job are the people who paint it. Built 
 
 - Logos in Logos/.
 - Real project photos supplied in Imagens/ were curated into assets/fotos/ and integrated into the homepage, service cards, portfolio and kitchen before/after. Power Washing uses an AI-generated service illustration labeled as illustrative. The suggested deck before/after remains unpublished until its order is confirmed.
-- No reviews yet (Google Business Profile not created). Review cards on the site are PLACEHOLDER and must be replaced with real Google reviews before launch.
+- Three real client reviews supplied by the client are on the site: Mark S. (interior), Sarah L. (cabinets), Robert M. (exterior trim and porch). Google Business Profile is not created yet, so no public rating is claimed beyond these reviews.
 - No certifications, partnerships or awards.
 
 ## Product Principles
