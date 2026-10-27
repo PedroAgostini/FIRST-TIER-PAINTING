@@ -1,0 +1,21 @@
+# First Tier Painting
+# Test environment: first.escolats.com.br
+# The test host also sends "X-Robots-Tag: noindex" from .htaccess,
+# so it stays out of search results until the real domain goes live.
+
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /clean-cache
+
+# AI crawlers: allowed to read the public site (see /llms.txt)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://first.escolats.com.br/sitemap.xml

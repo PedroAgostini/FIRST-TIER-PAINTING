@@ -1,0 +1,929 @@
+[
+  {
+    "id": 1,
+    "name": "WhatsApp Image 2026-10-21 at 12.19.42.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74124,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 2,
+    "name": "WhatsApp Image 2026-10-21 at 12.19.50.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 67193,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 3,
+    "name": "WhatsApp Image 2026-10-21 at 12.19.56 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 93452,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 4,
+    "name": "WhatsApp Image 2026-10-21 at 12.19.56.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 73533,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 5,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.07.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74304,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 6,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.08.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 77431,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 7,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.11 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 67733,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 8,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.11 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 59444,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 9,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.11.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 69943,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 10,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.12.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 70657,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 11,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.30 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 65369,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 12,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.30 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 76309,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 13,
+    "name": "WhatsApp Image 2026-10-21 at 12.20.30.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 69392,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 14,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.08 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 86615,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 15,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.08 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 78494,
+    "status": "selecionada",
+    "reason": "Fachada finalizada, jardim cuidado e ausência de materiais de obra."
+  },
+  {
+    "id": 16,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.08 (3).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 92385,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 17,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.08.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 56784,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 18,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.09 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 71329,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 19,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.09 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 88079,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 20,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.09.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 69363,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 21,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.17.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 81074,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 22,
+    "name": "WhatsApp Image 2026-10-21 at 12.22.28.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 38945,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 23,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.19.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 34410,
+    "status": "selecionada",
+    "reason": "Ambiente organizado e acabamento visível; uso secundário pela resolução e luz mais baixa."
+  },
+  {
+    "id": 24,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.20 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 42908,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 25,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.20 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 30984,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 26,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.20.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 52820,
+    "status": "selecionada",
+    "reason": "Transformação dos armários legível; objetos domésticos usuais na bancada, sem ferramentas de obra."
+  },
+  {
+    "id": 27,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.21.jpeg",
+    "width": 941,
+    "height": 1672,
+    "bytes": 129807,
+    "status": "selecionada",
+    "reason": "Boa resolução, paredes legíveis e ambiente organizado. Tomada sem espelho no original."
+  },
+  {
+    "id": 28,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.23.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 52789,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 29,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.24.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 64398,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 30,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.25 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 49452,
+    "status": "selecionada",
+    "reason": "Mesmo conjunto de armários da foto 26, com micro-ondas, fogão e vigas correspondentes."
+  },
+  {
+    "id": 31,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.25 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 51008,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 32,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.25.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 48469,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 33,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.46 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 50590,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 34,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.46 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 49027,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 35,
+    "name": "WhatsApp Image 2026-10-21 at 12.24.46.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 26151,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 36,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.27.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 50497,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 37,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.28 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 87337,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 38,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.28 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 42358,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 39,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.28.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 92930,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 40,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.29 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 80865,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 41,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.29.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 85353,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 42,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.33 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 92552,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 43,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.33.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74276,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 44,
+    "name": "WhatsApp Image 2026-10-21 at 12.26.37.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 82822,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 45,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.44.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 60779,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 46,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.53 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 47654,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 47,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.53 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 109005,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 48,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.53.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 71512,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 49,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.58 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 90484,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 50,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.58 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 47484,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 51,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.58.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 70582,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 52,
+    "name": "WhatsApp Image 2026-10-21 at 12.28.59.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 97777,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 53,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.00.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 51376,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 54,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.01 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 62360,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 55,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.01.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 77371,
+    "status": "selecionada",
+    "reason": "Enquadramento claro do acabamento da fachada e da porta da garagem."
+  },
+  {
+    "id": 56,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.07.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 86850,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 57,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.08.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 84605,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 58,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.13 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 462130,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 59,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.13 (2).jpeg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 543331,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 60,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.13 (3).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 229186,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 61,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.13.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 95982,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 62,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.14 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 68181,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 63,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.14 (2).jpeg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 427661,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 64,
+    "name": "WhatsApp Image 2026-10-21 at 12.29.14.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 462789,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 65,
+    "name": "WhatsApp Image 2026-10-21 at 12.30.59.jpeg",
+    "width": 1320,
+    "height": 1760,
+    "bytes": 384219,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 66,
+    "name": "WhatsApp Image 2026-10-21 at 12.31.00.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 51395,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 67,
+    "name": "WhatsApp Image 2026-10-21 at 12.31.05.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 61906,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 68,
+    "name": "WhatsApp Image 2026-10-21 at 12.31.59.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 67330,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 69,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.03.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 67052,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 70,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.04 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 68959,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 71,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.04 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 61987,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 72,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.04 (3).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 110293,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 73,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.04 (4).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 73726,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 74,
+    "name": "WhatsApp Image 2026-10-21 at 12.32.04.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 80429,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 75,
+    "name": "WhatsApp Image 2026-10-21 at 12.33.10 (1).jpeg",
+    "width": 941,
+    "height": 1672,
+    "bytes": 238741,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 76,
+    "name": "WhatsApp Image 2026-10-21 at 12.33.10 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 54582,
+    "status": "selecionada",
+    "reason": "Mesmo deck da foto 78. Ordem antes/depois inferida pela mudança de tom e uniformidade; confirmar com o responsável."
+  },
+  {
+    "id": 77,
+    "name": "WhatsApp Image 2026-10-21 at 12.33.10 (3).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 54804,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 78,
+    "name": "WhatsApp Image 2026-10-21 at 12.33.10 (4).jpeg",
+    "width": 941,
+    "height": 1672,
+    "bytes": 204789,
+    "status": "selecionada",
+    "reason": "Composição limpa, boa resolução e vista aberta; par visual com foto 76."
+  },
+  {
+    "id": 79,
+    "name": "WhatsApp Image 2026-10-21 at 12.33.10.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 78845,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 80,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.31.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 58376,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 81,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.32.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 63620,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 82,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.33 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 102199,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 83,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.33.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 65126,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 84,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.35 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 59757,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 85,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.35.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 73551,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 86,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.36 (1).jpeg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 148762,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 87,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.36 (2).jpeg",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 354633,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 88,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.36 (3).jpeg",
+    "width": 1085,
+    "height": 1450,
+    "bytes": 419610,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 89,
+    "name": "WhatsApp Image 2026-10-21 at 12.34.36.jpeg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 153339,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 90,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.35.jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 87749,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 91,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38 (1).jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 76110,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 92,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38 (2).jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 156185,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 93,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38 (3).jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 127367,
+    "status": "selecionada",
+    "reason": "Corredor livre, paredes nítidas e linhas de perspectiva consistentes. Uso comercial sugerido pela tipologia, sem identificação do imóvel."
+  },
+  {
+    "id": 94,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38 (4).jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 179380,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 95,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38 (5).jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 138944,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 96,
+    "name": "WhatsApp Image 2026-10-21 at 12.41.38.jpeg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 246821,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 97,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.39 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 50497,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 98,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.39 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 42358,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 99,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.39.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 85353,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 100,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.40 (1).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74837,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 101,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.40 (2).jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74960,
+    "status": "nao-selecionada",
+    "reason": "Fora da seleção final por qualidade, limpeza, enquadramento ou redundância em relação às escolhidas."
+  },
+  {
+    "id": 102,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.40 (3).jpeg",
+    "width": 941,
+    "height": 1672,
+    "bytes": 286509,
+    "status": "selecionada",
+    "reason": "Boa resolução, textura da madeira nítida, luz natural e área limpa."
+  },
+  {
+    "id": 103,
+    "name": "WhatsApp Image 2026-10-23 at 18.02.40.jpeg",
+    "width": 576,
+    "height": 1024,
+    "bytes": 74995,
+    "status": "selecionada",
+    "reason": "Área sem ferramentas, textura visível e luz natural; alternativa ao destaque 102."
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://first.escolats.com.br/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://first.escolats.com.br/assets/fotos/hero/fachada-board-batten.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://first.escolats.com.br/assets/fotos/resultados/deck-madeira-dourada.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://first.escolats.com.br/assets/fotos/resultados/cozinha-armarios-brancos.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://first.escolats.com.br/assets/fotos/resultados/fachada-cinza-garagem-vinho.webp</image:loc>
+    </image:image>
+  </url>
+</urlset>

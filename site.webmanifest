@@ -1,0 +1,16 @@
+{
+  "name": "First Tier Painting",
+  "short_name": "First Tier",
+  "description": "Interior, exterior and cabinet painting in Worcester and Central Massachusetts. Free estimates.",
+  "lang": "en-US",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#121E30",
+  "background_color": "#F5F7FB",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/maskable-icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

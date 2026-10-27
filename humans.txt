@@ -1,0 +1,26 @@
+/* TEAM */
+
+  Client: First Tier Painting
+  Location: Worcester, Massachusetts, USA
+  Contact: Info@firsttierpainting.com
+  Instagram: @firsttierpainting
+
+  Design and development: Eu Sou TS
+  Site: https://eusouts.com.br/
+  Location: Brazil
+
+/* THANKS */
+
+  Project photos: First Tier Painting job archive
+  Power Washing card: AI generated illustration, labeled as illustrative
+
+/* SITE */
+
+  Last update: 2026/10/27
+  Language: English
+  Doctype: HTML5
+  Standards: HTML5, CSS3, ES2020
+  Components: GSAP 3.12 + ScrollTrigger, Three.js r160
+  Fonts: Lexend, Lexend Zetta (Google Fonts)
+  Forms: Formspree
+  Software: Visual Studio Code

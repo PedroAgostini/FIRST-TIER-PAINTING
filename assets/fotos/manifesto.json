@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-27",
+  "reviewed": 103,
+  "selectedOriginals": 11,
+  "generatedCount": 1,
+  "images": [
+    {
+      "id": 102,
+      "slug": "deck-madeira-dourada",
+      "title": "Deck de madeira com acabamento dourado",
+      "alt": "Finished golden wood deck beside a taupe home with white windows",
+      "category": "Deck",
+      "reason": "Boa resolução, textura da madeira nítida, luz natural e área limpa.",
+      "file": "resultados/deck-madeira-dourada.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 212784,
+      "source": "Imagens/WhatsApp Image 2026-10-23 at 18.02.40 (3).jpeg",
+      "sourceBytes": 286509,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 15,
+      "slug": "fachada-taupe-molduras-brancas",
+      "title": "Fachada taupe com molduras brancas",
+      "alt": "Taupe house siding with white window trim and a landscaped garden",
+      "category": "Exterior",
+      "reason": "Fachada finalizada, jardim cuidado e ausência de materiais de obra.",
+      "file": "resultados/fachada-taupe-molduras-brancas.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 105700,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.22.08 (2).jpeg",
+      "sourceBytes": 78494,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 26,
+      "slug": "cozinha-armarios-brancos",
+      "title": "Cozinha com armários brancos",
+      "alt": "White painted kitchen cabinets, wood beams and wood-look floor",
+      "category": "Cabinets",
+      "reason": "Transformação dos armários legível; objetos domésticos usuais na bancada, sem ferramentas de obra.",
+      "file": "resultados/cozinha-armarios-brancos.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 54148,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.20.jpeg",
+      "sourceBytes": 52820,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 27,
+      "slug": "interior-paredes-neutras-vigas-madeira",
+      "title": "Interior com paredes neutras e vigas de madeira",
+      "alt": "Neutral painted room with exposed wood beams, white trim and natural light",
+      "category": "Interior",
+      "reason": "Boa resolução, paredes legíveis e ambiente organizado. Tomada sem espelho no original.",
+      "file": "resultados/interior-paredes-neutras-vigas-madeira.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 72024,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.21.jpeg",
+      "sourceBytes": 129807,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 55,
+      "slug": "fachada-cinza-garagem-vinho",
+      "title": "Fachada cinza com garagem vinho",
+      "alt": "Gray board-and-batten siding with a burgundy garage door",
+      "category": "Exterior",
+      "reason": "Enquadramento claro do acabamento da fachada e da porta da garagem.",
+      "file": "resultados/fachada-cinza-garagem-vinho.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 97056,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.29.01.jpeg",
+      "sourceBytes": 77371,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 78,
+      "slug": "deck-panoramico-acabamento-natural",
+      "title": "Deck panorâmico com acabamento natural",
+      "alt": "Wood deck with matching benches and a view of trees",
+      "category": "Deck",
+      "reason": "Composição limpa, boa resolução e vista aberta; par visual com foto 76.",
+      "file": "resultados/deck-panoramico-acabamento-natural.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 148030,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.33.10 (4).jpeg",
+      "sourceBytes": 204789,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 93,
+      "slug": "corredor-paredes-brancas",
+      "title": "Corredor com paredes brancas",
+      "alt": "Long clean corridor with white painted walls and recessed lighting",
+      "category": "Commercial",
+      "reason": "Corredor livre, paredes nítidas e linhas de perspectiva consistentes. Uso comercial sugerido pela tipologia, sem identificação do imóvel.",
+      "file": "resultados/corredor-paredes-brancas.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 89934,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.41.38 (3).jpeg",
+      "sourceBytes": 127367,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 23,
+      "slug": "banheiro-paredes-claras",
+      "title": "Banheiro com paredes claras",
+      "alt": "Bathroom with light painted walls, white trim and a dark vanity",
+      "category": "Interior",
+      "reason": "Ambiente organizado e acabamento visível; uso secundário pela resolução e luz mais baixa.",
+      "file": "resultados/banheiro-paredes-claras.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 28290,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.19.jpeg",
+      "sourceBytes": 34410,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 103,
+      "slug": "deck-coberto-madeira-finalizada",
+      "title": "Deck coberto com madeira finalizada",
+      "alt": "Finished wood deck and covered porch in natural sunlight",
+      "category": "Deck",
+      "reason": "Área sem ferramentas, textura visível e luz natural; alternativa ao destaque 102.",
+      "file": "resultados/deck-coberto-madeira-finalizada.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 94560,
+      "source": "Imagens/WhatsApp Image 2026-10-23 at 18.02.40.jpeg",
+      "sourceBytes": 74995,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 30,
+      "slug": "cozinha-armarios-madeira-antes",
+      "title": "Cozinha — antes",
+      "alt": "Kitchen with natural wood cabinets before white painting",
+      "category": "Antes",
+      "reason": "Mesmo conjunto de armários da foto 26, com micro-ondas, fogão e vigas correspondentes.",
+      "file": "antes-depois/cozinha-armarios-madeira-antes.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 46286,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.25 (1).jpeg",
+      "sourceBytes": 49452,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    },
+    {
+      "id": 76,
+      "slug": "deck-panoramico-antes",
+      "title": "Deck panorâmico — antes sugerido",
+      "alt": "Wood deck with weathered gray boards and benches",
+      "category": "Antes",
+      "reason": "Mesmo deck da foto 78. Ordem antes/depois inferida pela mudança de tom e uniformidade; confirmar com o responsável.",
+      "file": "antes-depois/deck-panoramico-antes.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 65682,
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.33.10 (2).jpeg",
+      "sourceBytes": 54582,
+      "origin": "real",
+      "processing": "Orientação EXIF, redução proporcional apenas quando necessária, conversão WebP. Sem IA, retoque, mudança de cor ou remoção de objetos."
+    }
+  ],
+  "cards": [
+    {
+      "file": "cards/interior-paredes-neutras.webp",
+      "width": 941,
+      "height": 647,
+      "bytes": 26694,
+      "service": "Interior Painting",
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.21.jpeg",
+      "origin": "real",
+      "alt": "Neutral painted room with exposed wood beams, white trim and natural light",
+      "crop": {
+        "left": 0,
+        "top": 510,
+        "width": 941,
+        "height": 647
+      }
+    },
+    {
+      "file": "cards/exterior-fachada-taupe.webp",
+      "width": 576,
+      "height": 396,
+      "bytes": 53174,
+      "service": "Exterior Painting",
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.22.08 (2).jpeg",
+      "origin": "real",
+      "alt": "Taupe house siding with white window trim and a landscaped garden",
+      "crop": {
+        "left": 0,
+        "top": 230,
+        "width": 576,
+        "height": 396
+      }
+    },
+    {
+      "file": "cards/cabinet-armarios-brancos.webp",
+      "width": 576,
+      "height": 396,
+      "bytes": 25992,
+      "service": "Cabinet Painting",
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.24.20.jpeg",
+      "origin": "real",
+      "alt": "White painted kitchen cabinets, wood beams and wood-look floor",
+      "crop": {
+        "left": 0,
+        "top": 300,
+        "width": 576,
+        "height": 396
+      }
+    },
+    {
+      "file": "cards/deck-madeira-dourada.webp",
+      "width": 941,
+      "height": 647,
+      "bytes": 98392,
+      "service": "Deck Painting & Staining",
+      "source": "Imagens/WhatsApp Image 2026-10-23 at 18.02.40 (3).jpeg",
+      "origin": "real",
+      "alt": "Finished golden wood deck beside a taupe home with white windows",
+      "crop": {
+        "left": 0,
+        "top": 460,
+        "width": 941,
+        "height": 647
+      }
+    },
+    {
+      "file": "cards/commercial-corredor-branco.webp",
+      "width": 900,
+      "height": 619,
+      "bytes": 16106,
+      "service": "Commercial Painting",
+      "source": "Imagens/WhatsApp Image 2026-10-21 at 12.41.38 (3).jpeg",
+      "origin": "real",
+      "alt": "Long clean corridor with white painted walls and recessed lighting",
+      "crop": {
+        "left": 0,
+        "top": 390,
+        "width": 900,
+        "height": 619
+      }
+    },
+    {
+      "service": "Power Washing",
+      "file": "cards/power-washing-calcada-ilustrativa-ia.webp",
+      "origin": "generated",
+      "alt": "AI-generated illustration of a clean concrete walkway beside a New England home",
+      "width": 960,
+      "height": 660,
+      "bytes": 144524
+    }
+  ],
+  "pairs": [
+    {
+      "title": "Armários: madeira → branco",
+      "before": 30,
+      "after": 26,
+      "slug": "cozinha-armarios",
+      "note": "Mesmo ambiente, ângulos diferentes. Comparação lado a lado; não usar slider sobreposto.",
+      "beforeFile": "antes-depois/cozinha-armarios-madeira-antes.webp",
+      "afterFile": "antes-depois/cozinha-armarios-depois.webp"
+    },
+    {
+      "title": "Deck panorâmico",
+      "before": 76,
+      "after": 78,
+      "slug": "deck-panoramico",
+      "note": "Par sugerido. Mesmo deck; ordem inferida pela aparência do acabamento e precisa de confirmação. Ângulos e iluminação diferentes.",
+      "beforeFile": "antes-depois/deck-panoramico-antes.webp",
+      "afterFile": "antes-depois/deck-panoramico-depois.webp"
+    }
+  ],
+  "generated": {
+    "title": "Lavagem — calçada limpa (ilustrativa)",
+    "alt": "AI-generated illustration of a clean concrete walkway beside a New England home",
+    "origin": "generated",
+    "file": "geradas/lavagem-calcada-ilustrativa-ia.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 303728
+  },
+  "notes": [
+    "Fotos originais preservadas em Imagens.",
+    "Fotos aplicadas no index.html principal: capa, sobre, seis serviços, galeria e antes/depois da cozinha. Arquivos antigos em assets/img preservados.",
+    "Fotos comprimidas do WhatsApp não foram ampliadas. Usar versões de 576 px em espaços pequenos; evitar hero de tela cheia.",
+    "Apenas a imagem de lavagem é gerada por IA. Não usar como prova de projeto real.",
+    "Foco da seleção: resultados limpos. Fotos de execução, ferramentas em destaque, canteiros desorganizados, enquadramentos fracos e repetições foram deixados de fora."
+  ],
+  "integration": {
+    "page": "index.html",
+    "date": "2026-10-27",
+    "comparison": "cozinha-armarios",
+    "deckComparisonPublished": false
+  }
+}

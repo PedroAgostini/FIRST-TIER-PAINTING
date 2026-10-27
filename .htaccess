@@ -1,0 +1,133 @@
+# ==============================================================
+# First Tier Painting | Apache configuration
+# Test environment: https://first.escolats.com.br
+# ==============================================================
+
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+ServerSignature Off
+
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+  AddType image/webp                .webp
+  AddType image/svg+xml             .svg
+  AddType image/x-icon              .ico
+  AddType text/plain                .txt
+  AddCharset UTF-8 .html .css .js .txt .xml .webmanifest
+</IfModule>
+
+# Custom error page (served at the clean URL /404)
+ErrorDocument 404 /404
+ErrorDocument 403 /404
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # --- 1. Force HTTPS -------------------------------------------
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # --- 2. Drop www ----------------------------------------------
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+  # --- 3. Antispam: bad bots and exploit probes -----------------
+  RewriteCond %{HTTP_USER_AGENT} (ahrefsbot|mj12bot|semrushbot|dotbot|petalbot|bytespider|blexbot|dataforseobot|serpstatbot|megaindex|zoominfobot|seekport|barkrowler|masscan|nikto|sqlmap|zgrab) [NC]
+  RewriteRule ^ - [F,L]
+  RewriteRule ^(wp-admin|wp-login\.php|wp-content|wp-includes|xmlrpc\.php|phpmyadmin|administrator|\.env|\.git|vendor/phpunit) - [F,NC,L]
+  RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
+  RewriteCond %{QUERY_STRING} (union.*select|concat\(|base64_encode|GLOBALS=|_REQUEST=) [NC]
+  RewriteRule ^ - [F,L]
+
+  # --- 4. Keep private files private -----------------------------
+  # Dotfiles and folders (except .well-known)
+  RewriteRule "(^|/)\.(?!well-known/)" - [F,L]
+  # Working documents, data sidecars and scripts
+  RewriteRule \.(md|json|log|bak|old|sql|sh|ps1|py|psd|ai|zip)$ - [F,NC,L]
+  # Working folders and the internal photo index
+  RewriteRule ^(tmp|Imagens|Logos)(/|$) - [F,NC,L]
+  RewriteRule ^assets/fotos/index\.html$ - [F,NC,L]
+
+  # --- 5. Clean URLs: no .html (or .php) in the address bar ------
+  # /index.html and /index -> /
+  RewriteCond %{THE_REQUEST} \s/+(.*/)?index(\.html)?[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L]
+  # /page.html -> /page
+  RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L]
+  # /page.php -> /page
+  RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L]
+  # /page/ -> /page (files only, never real folders)
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.+)/$ /$1 [R=301,L]
+  # /page -> page.html (internal, URL stays clean)
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L]
+  # /page -> page.php (internal, used by /clean-cache)
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.php -f
+  RewriteRule ^(.+)$ $1.php [L]
+</IfModule>
+
+# --- Security headers --------------------------------------------
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+  Header always unset X-Powered-By
+  Header unset X-Powered-By
+  # Turn on once HTTPS is confirmed on the final domain:
+  # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+  # Test environment must stay out of search results.
+  # This only matches the test host, so it switches itself off on the real domain.
+  <If "%{HTTP_HOST} =~ /^first\.escolats\.com\.br$/i">
+    Header always set X-Robots-Tag "noindex, nofollow"
+  </If>
+</IfModule>
+
+# --- Compression ---------------------------------------------------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml text/javascript
+  AddOutputFilterByType DEFLATE application/javascript application/json application/xml
+  AddOutputFilterByType DEFLATE application/manifest+json image/svg+xml image/x-icon
+</IfModule>
+
+# --- Cache ------------------------------------------------------------
+# HTML always revalidates, so a new deploy shows up at once.
+# CSS and JS are versioned with ?v= in index.html, so they can be cached long.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                          "access plus 1 week"
+  ExpiresByType text/html                 "access plus 0 seconds"
+  ExpiresByType text/css                  "access plus 1 year"
+  ExpiresByType application/javascript    "access plus 1 year"
+  ExpiresByType text/javascript           "access plus 1 year"
+  ExpiresByType image/webp                "access plus 6 months"
+  ExpiresByType image/jpeg                "access plus 6 months"
+  ExpiresByType image/png                 "access plus 6 months"
+  ExpiresByType image/svg+xml             "access plus 6 months"
+  ExpiresByType image/x-icon              "access plus 1 year"
+  ExpiresByType application/manifest+json "access plus 1 week"
+  ExpiresByType text/plain                "access plus 1 day"
+  ExpiresByType application/xml           "access plus 1 day"
+  ExpiresByType text/xml                  "access plus 1 day"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|php)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(webp|jpe?g|png|svg|ico)$">
+    Header set Cache-Control "public, max-age=15552000"
+  </FilesMatch>
+</IfModule>
